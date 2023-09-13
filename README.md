@@ -80,23 +80,23 @@ print("RMSE= ",rmse)
 
 
 ## Output:
-![](./2.01.png)
+![2 01](https://github.com/arshatha-palanivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118682484/9800abca-14a5-49ec-b1e5-b18c3beb01ed)
 
-![](./2.02.png)
+![2 02](https://github.com/arshatha-palanivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118682484/6f2469df-5e76-4ec6-b739-7808488ba522)
 
-![](./2.03.png)
+![2 03](https://github.com/arshatha-palanivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118682484/798e9de1-f25e-49e8-867c-73abb01e1a09)
 
-![](./2.04.png)
+![2 04](https://github.com/arshatha-palanivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118682484/b2eb7889-101a-4c77-8a91-99ed53046f15)
 
-![](./2.05.png)
+![2 05](https://github.com/arshatha-palanivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118682484/f437bc50-69a1-4dbb-9937-5016368815d8)
 
-![](./2.06.png)
+![2 06](https://github.com/arshatha-palanivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118682484/d32f53c2-9e17-483b-bb6c-fbb05aac3557)
 
-![](./2.07.png)
+![2 07](https://github.com/arshatha-palanivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118682484/2b7d5d21-631b-43e9-a441-c034302f0c56)
 
-![](./2.08.png)
+![2 08](https://github.com/arshatha-palanivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118682484/85a2f456-165b-4ab8-9372-3cf243416573)
 
-![](./2.09.png)
+![2 09](https://github.com/arshatha-palanivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118682484/207a42ef-0741-409e-87ba-3a7ce71a4518)
 
 
 ## Result:
